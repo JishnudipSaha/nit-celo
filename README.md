@@ -126,7 +126,7 @@ contract RedCard {
 
 **Contract Address:** [Contract Address Link](https://celo-sepolia.blockscout.com/tx/0x49a1e567be0c3d95382ab37e322e89fd31699108a5bc1e8ec4a159ceedcf0535)
 
-**Explorer Link:** [[View on Blockchain Explorer](XXX)](https://celo-sepolia.blockscout.com/tx/0x49a1e567be0c3d95382ab37e322e89fd31699108a5bc1e8ec4a159ceedcf0535)
+**Explorer Link:** [View on Blockchain Explorer](https://celo-sepolia.blockscout.com/tx/0x49a1e567be0c3d95382ab37e322e89fd31699108a5bc1e8ec4a159ceedcf0535)
 
 *(Replace XXX with your actual deployment details once live.)*
 
