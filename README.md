@@ -122,9 +122,9 @@ contract RedCard {
 
 ## 🌍 Deployed Smart Contract
 
-**Network:** XXX
-**Contract Address:** XXX
-**Explorer Link:** [View on Blockchain Explorer](XXX)
+**Network:** CELO Sepolia
+**Contract Address:** https://repo.sourcify.dev/11142220/0x4bD65e880eE940eC6DA1880B4e79E08B92e086FA/
+**Explorer Link:** [[View on Blockchain Explorer](XXX)](https://celo-sepolia.blockscout.com/tx/0x49a1e567be0c3d95382ab37e322e89fd31699108a5bc1e8ec4a159ceedcf0535)
 
 *(Replace XXX with your actual deployment details once live.)*
 
