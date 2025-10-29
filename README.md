@@ -191,7 +191,3 @@ This project is licensed under the **MIT License**.
 Developed with ❤️ by **Jishnu**
 
 > *“Bringing transparency to sports, one block at a time.”*
-
----
-
-Would you like me to make a **GitHub badge-style header** (with Solidity, Ethereum, and License badges) and add it to the top of the README for a more polished open-source look?
